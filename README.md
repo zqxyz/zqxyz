@@ -1,20 +1,27 @@
 My name is Zach  
-My website is zquint.xyz (but you won't find much there right now)  
-I'm a 30 year old Computer Science student and Operations Manager of a small business  
+I'm a Computer Science student and Operations Manager of a moving company
 
-I like  
--JavaScript  
--Google Sheets + Google Apps Script  
--HTML  
--APIs  
--Linux  
--Making tools for small businesses  
+I'm currently working on 
 
-I'm familiar with  
--Java  
--Bash  
--CSS  
--AWS  
+Check out my repos to guage my proficiency:
+-JavaScript
+-HTML (duh)
+-CSS
+-Bootstrap
+-PHP
 
-I want to learn more about  
--Document databases like DynamoDB and Mongo  
+Outside of GitHub:
+-Google Sheets + Google Apps Script
+-Excel
+-Linux
+-Web administration:
+  -Nginx
+  -Apache
+  -Domains and DNS
+-Raspberry Pi
+
+Beyond computing:
+-Staff management
+-Workflow design
+-Logistics
+-Customer relationships

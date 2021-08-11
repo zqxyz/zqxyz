@@ -2,15 +2,16 @@
 
 I'm currently working on freeCodeCamp JavaScript Algorithms and Data Structures
 
-Check out my repos to guage my proficiency:
+Languages:
 - JavaScript
 - HTML (duh)
 - CSS
 - Bootstrap
 - PHP
+- Java
+- Google Apps Script
 
-Outside of GitHub:
-- Google Sheets + Google Apps Script
+Other:
 - Excel
 - Linux
 - Web administration:

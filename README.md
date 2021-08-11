@@ -6,12 +6,12 @@ Languages:
 - JavaScript
 - HTML (duh)
 - CSS
-- Bootstrap
 - PHP
 - Java
 - Google Apps Script
 
 Other:
+- Bootstrap
 - Excel
 - Linux
 - Web administration:

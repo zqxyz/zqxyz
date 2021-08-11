@@ -19,6 +19,9 @@ Other:
     - Apache
     - Domains and DNS
 - Raspberry Pi
+- Yes I can help you with your wordpress
+- Yes I can help you with your .htacces file
+- Yes I can learn a new framework or language
 
 Beyond computing:
 - Staff management

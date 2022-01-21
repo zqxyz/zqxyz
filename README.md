@@ -4,9 +4,15 @@ Strong:
 - HTML
 - CSS
 
-Working knowledge:
-- Linux/BASH
-- Nginx
+Intermediate:
 - PHP
 - Java
 - Excel/Google Sheets
+
+Working knowledge:
+- Linux/BASH
+- Nginx
+- Firebase hosting and cloud functions
+
+Learning:
+- C++

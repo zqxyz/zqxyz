@@ -1,13 +1,1 @@
-I'm not gonna sit here and tell you "I know C++". I know conversational C++. I can say hello and order a croissant. I know the segfault is because I used .end() instead of .back(). I can use pointers and references appropriately, if not on my first compile, shortly thereafter. I've learned that people who are a little _too_ opinionated about loving or hating a language should be taken lightly.
-
-I've completed projects in React. I like it just fine. Front end stuff can be fun. JavaScript is a great language to learn. TypeScript seems like the solution. As I approach the end of my position as an operations manager for a moving company, I am starting to learn about TypeScript in order to start with Angular.
-
-I've also started with Spring Boot. Like any good CS student, with a little dusting off and time to warm up, I can write Java rather sanely. This Summer I'll start an internship combining Angular and Spring for an international company and get my first taste of professional programming.
-
-I've also taken an interest in BASH. With Linux, it really feels like you can do anything you can think of. It's almost intimidating. Sure, NVIDIA drivers don't work, configuring multi-monitor setups using xrandr is a days work, changing sound output without a DE is another hour of research, I've deleted my system with a single missed `.`, I'm supposed to have an opinion on init systems, I need to run scripts at startup just to keep my cursor speed below the speed of light and output display at my target refresh rate, run another script to lock my screen in a way that doesn't leave my displays running endlessly with no suspend... uh, but that's the fun.
-
-I like practical solutions to problems. I've built forms with good ole HTML/PHP to specifications that send to APIs for customers and staff, to spare them slow, default interfaces [have you ever tried to open Streak on old computer?]. I've let a component of a website get edited using GoogleDocs, by scraping a published document, so a client doesn't have to context switch.
-
-My Raspberry Pi makes printing from any device in my home easy: including printing off phones with no setup. It also generates white noise into speakers so I can sleep while all the doctors and lawyers in my neighborhood play loud music all night. It hosts backups of all my files, and passes file changes from my laptop to my desktop. It serves files over the internet so I don't have to use some large-file-sending service filled with scam advertisements that confuse my recipients with decoy "download here" buttons.
-
-Outside of computing, I have experience with logistics that include knowing individual characteristics of staff and trucks, scheduling, sales, booking, and building customer relationships.
+see zquint.xyz for updates
